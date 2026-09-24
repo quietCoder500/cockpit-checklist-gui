@@ -1,0 +1,78 @@
+{
+  "page_names": [
+    "Great",
+    "Average",
+    "Poor"
+  ],
+  "phases": [
+    {
+      "id": "morning",
+      "name": "Morning",
+      "pages": {
+        "Great": [
+          "Make bed",
+          "Brush teeth",
+          "Shave",
+          "Get dressed",
+          "Eat breakfast",
+          "Go for a walk"
+        ],
+        "Average": [
+          "Make bed",
+          "Brush teeth",
+          "Shave",
+          "Eat breakfast"
+        ],
+        "Poor": [
+          "Brush teeth",
+          "Eat something"
+        ]
+      }
+    },
+    {
+      "id": "workday",
+      "name": "Workday",
+      "pages": {
+        "Great": [
+          "Review today's priorities",
+          "Drink water",
+          "Take a proper lunch break",
+          "Go for a short walk",
+          "Tidy work area"
+        ],
+        "Average": [
+          "Review today's priorities",
+          "Drink water",
+          "Take a lunch break"
+        ],
+        "Poor": [
+          "Drink water",
+          "Eat lunch"
+        ]
+      }
+    },
+    {
+      "id": "evening",
+      "name": "Evening",
+      "pages": {
+        "Great": [
+          "Go for a walk",
+          "Prepare for tomorrow",
+          "Tidy living space",
+          "Brush teeth",
+          "Set out clothes"
+        ],
+        "Average": [
+          "Prepare for tomorrow",
+          "Brush teeth",
+          "Set out clothes"
+        ],
+        "Poor": [
+          "Brush teeth",
+          "Set alarm",
+          "Check if all assignments are done"
+        ]
+      }
+    }
+  ]
+}
